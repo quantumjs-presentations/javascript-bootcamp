@@ -2,13 +2,13 @@
 
 Learning JS by example
 
-# Practice slow, to learn fast "A sensai"
+# Practice slow, to learn fast "A sensei"
 
 Strong foundations mean we can go further for longer
 
 # Course Outline
 
-To provide a good practical learning outcome Courses are normally booked for 1-3 or 1-5 days 
+To provide an excellent practical learning outcome Courses are typically booked for 1-3 or 1-5 days 
 
 ##Day 1
 
@@ -32,7 +32,7 @@ Session 1
 Functional programing
 
 Session 2
-ES6, babel and webpack
+npm, ES6, babel and webpack
 
 ##Day 4
 
